@@ -1,9 +1,8 @@
 body {
     background-color: rgb(220, 153, 105);
 }
-header {
-    background-color: chocolate;
-}
-.croissant-photo {
-    align-items: center;
+h1 {text-align: center;}
+p {text-align: center;}
+
+.croissant-photo {display: block; margin-left: auto; margin-right: auto;
 }
